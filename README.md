@@ -23,7 +23,7 @@
     
 4. Run the created project(Xcode) and compile it(Simulator & Device).
 
-5. After compile, made a framework file(.framework) in created project(Xcode).
+5. After compile successed, it was made a framework file(.framework) in created project(Xcode) folder.
 
     <img src="https://github.com/billnjoyce/libFramework-Template-for-iOS/blob/master/help2.png?raw=true" width=500>
     
