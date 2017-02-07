@@ -14,6 +14,7 @@
 2. On the terminal, run script like below.
     
     $ cd scripts
+    
     $ ./make_project.sh MyFramework
     
 3. Just made own your framework project for iOS.
