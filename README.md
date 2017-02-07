@@ -19,7 +19,10 @@
     
 3. Just made own your framework project for iOS.
 
-    <img src="https://github.com/billnjoyce/libFramework-Template-for-iOS/blob/master/help1.png?raw=true" width=300>
+    <img src="https://github.com/billnjoyce/libFramework-Template-for-iOS/blob/master/help1.png?raw=true" width=500>
     
 4. Do your any work now.
 
+# Contack Us
+
+* E-Mail : ibillkim@gmail.com
