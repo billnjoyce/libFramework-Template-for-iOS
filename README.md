@@ -1,4 +1,4 @@
-<img src="http://jsappfactory.cafe24.com/Resources/CI.png" style="width=200;background-color:black">
+<img src="http://jsappfactory.cafe24.com/Resources/CI-black.png" width=300>
 
 # libFramework-Template-for-iOS
 
