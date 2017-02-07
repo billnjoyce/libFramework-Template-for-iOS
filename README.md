@@ -9,13 +9,13 @@
 
 1. Clone or download 'libFramework-Template-for-iOS' project.
 
-    $ git clone https://github.com/billnjoyce/libFramework-Template-for-iOS.git
+        $ git clone https://github.com/billnjoyce/libFramework-Template-for-iOS.git
 
 2. On the terminal, run script like below.
     
-    $ cd scripts
+        $ cd scripts
     
-    $ ./make_project.sh MyFramework
+        $ ./make_project.sh MyFramework
     
 3. Just made own your framework project for iOS.
 
