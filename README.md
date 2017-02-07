@@ -21,7 +21,13 @@
 
     <img src="https://github.com/billnjoyce/libFramework-Template-for-iOS/blob/master/help1.png?raw=true" width=500>
     
-4. Do your any work now.
+4. Run the created project(Xcode) and compile it.(Simulator & Device)
+
+5. After compile, made a framework file(.framework) in created project(Xcode).
+
+    <img src="https://github.com/billnjoyce/libFramework-Template-for-iOS/blob/master/help2.png?raw=true" width=500>
+    
+6. Do your any work now.
 
 # Contact Us
 
